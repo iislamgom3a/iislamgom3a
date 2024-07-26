@@ -1,3 +1,6 @@
+![](https://i.pinimg.com/originals/5d/45/0c/5d450cd11bc125fe8bd2e0214110fb36.gif)
+
+
 # 👋 Hello, I'm Islam Gomaa!
 
 Welcome to my GitHub profile! I'm a passionate Computer Engineering student at Al Azhar University, currently diving deep into embedded systems and exploring the fascinating world of software development. Here’s a bit more about me:
