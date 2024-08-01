@@ -2,11 +2,10 @@
 
 # 👋 Hello, I'm Islam Gomaa!
 
-Welcome to my GitHub profile! I'm a passionate Computer Engineering student at Al Azhar University, currently diving deep into embedded systems and exploring the fascinating world of software development. Here’s a bit more about me:
+Welcome to my GitHub profile! I'm a passionate Computer Engineering student at Al Azhar University, currently exploring the fascinating world of software development. Here’s a bit more about me:
 
 ## 🌱 Current Focus
 
-- **Embedded Systems**: Delving into the intricacies of embedded systems and their applications.
 - **Competitive Programming**: Enhancing problem-solving skills in C++ and seeking internship opportunities to apply my knowledge in real-world projects.
 
 ## 🖥️ Languages
