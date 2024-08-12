@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering student at A
 
 ## 🌱 Current Focus
 
-- **Competitive Programming**: Enhancing problem-solving skills in C++ and seeking internship opportunities to apply my knowledge in real-world projects.
+- **Competitive Programming & DSA**: Enhancing problem-solving & mastering Data structures & Algorithms and seeking internship opportunities to apply my knowledge in real-world projects.
 
 ## 🖥️ Languages
 
